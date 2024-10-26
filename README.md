@@ -89,4 +89,4 @@ Le projet est organisé de manière classique pour les applications Spring Boot 
 
 ## Conclusion
 
-Ce TP vous a permis de découvrir les bases de Spring Boot et Thymeleaf pour développer une application Web CRUD simple.
+Ce TP nous a permis de découvrir les bases de Spring Boot et Thymeleaf pour développer une application Web CRUD simple.
